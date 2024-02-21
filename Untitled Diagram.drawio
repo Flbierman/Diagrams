@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T21:32:09.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="SGkCjW42X1De8oOqz8bI" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T22:31:27.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2kN4ZwUBv8Masz550XfI" version="23.1.5" type="github">
   <diagram name="Page-1" id="3C6h9rfHE9IGXmHBJY-0">
-    <mxGraphModel>
+    <mxGraphModel dx="1793" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-4" value="Mobile Application Interface&lt;br&gt;Web Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-5" value="Authentication and Authorization&lt;br&gt;Real-time Communication&lt;br&gt;UI Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-6" value="Location Tracking&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Work order creation&amp;nbsp; &amp;nbsp; Status tracking/updates&lt;br&gt;Inventory Tracking&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Alerts&amp;nbsp; &amp;nbsp;Offline Data Capture&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Synchronization&amp;nbsp; &amp;nbsp;Data Analysis&amp;nbsp; &amp;nbsp; Report Generation&amp;nbsp; &amp;nbsp;Custom Notifications&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-7" value="DBMS&amp;nbsp;&lt;br&gt;OS Support&lt;br&gt;Middleware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="470" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-8" value="User interface layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="128" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-9" value="User Communications Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-10" value="Application Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elVo-IdGJ_h8r-v-pPCG-11" value="System Database Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
